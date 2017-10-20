@@ -111,7 +111,7 @@ namespace Senparc.Weixin.Work
         PIC_PHOTO_OR_ALBUM,
 
         /// <summary>
-        /// 弹出微信相册发图器
+        /// 弹出微信相册发图器  
         /// </summary>
         PIC_WEIXIN,
 
